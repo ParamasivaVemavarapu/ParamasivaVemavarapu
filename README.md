@@ -1,61 +1,62 @@
 # Hi, I'm Paramasiva 👋
 
-## AI/ML Engineer building production-ready AI systems
+## I turn operational problems into reliable AI software
 
-I build Python-based machine learning and Generative AI applications—from retrieval and evaluation to APIs, deployment, and monitoring. My current work includes production LLM and RAG systems supporting 500+ monthly queries across banking and payment operations.
+I build systems that help people find trusted information, automate repetitive decisions, detect risk earlier, and hand uncertain cases to humans. My work spans retrieval, evaluation, APIs, deployment, and monitoring—not just model experimentation.
 
-I recently completed an **M.S. in Computer Science at Montclair State University**. My work combines **machine learning, Generative AI, NLP, cloud technologies, and software engineering**.
+I currently support production LLM and RAG workflows handling **500+ monthly queries** across banking and payment operations. I recently completed an **M.S. in Computer Science at Montclair State University**.
 
-## Professional Experience
+## Problems I Solve
 
-- Build and support production LLM and RAG workflows used across banking and payment operations.
-- Handle **500+ queries per month** through retrieval, grounded response generation, and operational AI workflows.
-- Develop Python services, APIs, evaluation pipelines, monitoring, and human-review controls for production AI systems.
+- **Knowledge access:** turn scattered documents into grounded answers with traceable citations.
+- **Support automation:** route common requests while escalating sensitive or low-confidence cases safely.
+- **Operational risk:** identify anomalous equipment behavior and prioritize maintenance decisions.
+- **Decision support:** convert complex revenue and demand data into understandable recommendations.
+- **Production reliability:** add evaluation, testing, APIs, Docker, CI/CD, monitoring, and human controls around AI workflows.
 
-## What I build
+## Professional Impact
 
-- Production RAG and semantic-retrieval pipelines
-- Agentic workflows with human approval and evaluation
-- Machine-learning and anomaly-detection systems
-- FastAPI services and full-stack AI applications
-- Dockerized, tested applications with CI/CD
-- AWS and cloud-deployed AI solutions
+- Support retrieval and grounded-response workflows serving **500+ queries per month** in banking and payment operations.
+- Build evaluation pipelines and human-review controls so production AI behavior can be measured and governed.
+- Develop reusable Python services and APIs that move AI capabilities from experiments into operational workflows.
 
-## Featured Projects
+## Featured Work
 
-### 1. [DocIntel AI](https://github.com/ParamasivaVemavarapu/DocIntel_AI)
+### [DocIntel AI](https://github.com/ParamasivaVemavarapu/DocIntel_AI) — make business knowledge verifiable
 
-A full-stack document-intelligence platform for ingestion, grounded question answering, semantic retrieval, source citations, and multi-step workflows.
+Transforms PDF, DOCX, Markdown, and text documents into grounded answers with document and page citations.
 
-**Stack:** Python, FastAPI, Next.js, LangGraph, Qdrant, Docker, GitHub Actions
+**Measured evidence:** On a versioned four-question synthetic regression set, the system records **1.000 Recall@K** and **0.833 citation correctness**.  
+**Engineering proof:** Full-stack ingestion and retrieval workflow, FastAPI, Qdrant, Next.js, Docker, testing, CI, and reproducible evaluation.
 
-### 2. [AI Customer Support Assistant](https://github.com/ParamasivaVemavarapu/AI-Customer-Support-Assistant---Intent-Routing-and-RAG)
+### [AI Customer Support Assistant](https://github.com/ParamasivaVemavarapu/AI-Customer-Support-Assistant---Intent-Routing-and-RAG) — automate safely and escalate intelligently
 
-An AI support application with intent routing, RAG knowledge search, conversation memory, source citations, and human escalation.
+Routes six request types, retrieves approved knowledge, preserves conversation context, and creates human-escalation records for sensitive or uncertain cases.
 
-**Stack:** Python, FastAPI, Next.js, RAG, SQL, Docker
+**Measured evidence:** The versioned 10-message synthetic fixture records **0.900 intent accuracy**, **1.000 escalation recall**, and **1.000 claim-to-evidence faithfulness**.  
+**Engineering proof:** Intent routing, RAG, citations, SQLite memory, escalation APIs, Next.js, Docker, tests, and CI.
 
-### 3. [Predictive Maintenance and Anomaly Detection](https://github.com/ParamasivaVemavarapu/Predictive-Maintenance-and-Anomaly-Detection)
+### [Predictive Maintenance and Anomaly Detection](https://github.com/ParamasivaVemavarapu/Predictive-Maintenance-and-Anomaly-Detection) — surface equipment risk earlier
 
-A deployed machine-learning system for multivariate anomaly detection, explainable risk scoring, remaining-useful-life estimates, and maintenance decision support.
+Converts sensor readings into anomaly alerts, explainable risk scores, remaining-useful-life estimates, and prioritized maintenance recommendations.
 
-**Stack:** Python, pandas, scikit-learn, FastAPI, Next.js, Docker, GitHub Actions  
+**Measured evidence:** A six-outcome synthetic backtest records **0.667 precision**, **0.667 recall**, and **30 hours mean alert lead time**, with PSI drift monitoring.  
+**Engineering proof:** Deployed FastAPI and Next.js system with scikit-learn, Docker, evaluation, and cloud delivery.  
 **Live:** [Dashboard](https://predictive-maintenance-and-anomaly-detection-paramasiva.vercel.app) · [API](https://predictive-maintenance-and-anomaly-chld.onrender.com) · [API docs](https://predictive-maintenance-and-anomaly-chld.onrender.com/docs)
 
-### 4. [Hospitality Revenue Intelligence Platform](https://github.com/ParamasivaVemavarapu/Hospitality-Revenue-Intelligence-Platform)
+### [Hospitality Revenue Intelligence Platform](https://github.com/ParamasivaVemavarapu/Hospitality-Revenue-Intelligence-Platform) — turn hotel data into pricing decisions
 
-An analytics platform for revenue KPIs, demand forecasting, pricing recommendations, and operational decision support.
+Consolidates revenue KPIs, property and channel comparisons, demand forecasts, and explainable room-rate recommendations into one decision-support application.
 
-**Stack:** Python, forecasting, FastAPI, Next.js, SQL, Docker
+**Outcome:** Replaces fragmented analysis with a reproducible **ingest → KPI → forecast → recommend → explain** workflow. No production revenue-lift claim is made.  
+**Engineering proof:** FastAPI analytics, pandas, Next.js dashboards, Docker Compose, tests, and GitHub Actions.
 
-## Core Technologies
+## How I Deliver
 
-- **Applied AI:** RAG, LLM evaluation, embeddings, semantic retrieval, NLP
-- **Machine Learning:** scikit-learn, PyTorch, anomaly detection
-- **Backend:** Python, FastAPI, REST APIs, SQL
-- **Data and retrieval:** Qdrant, PostgreSQL
-- **Delivery:** Docker, GitHub Actions, CI/CD, AWS
-- **Frontend:** Next.js, TypeScript
+- **Applied AI:** RAG, semantic retrieval, embeddings, NLP, LLM evaluation
+- **Machine learning:** scikit-learn, PyTorch, anomaly detection
+- **Software engineering:** Python, FastAPI, REST APIs, SQL, Next.js, TypeScript
+- **Production delivery:** Qdrant, PostgreSQL, Docker, GitHub Actions, CI/CD, AWS
 
 ## Connect
 
