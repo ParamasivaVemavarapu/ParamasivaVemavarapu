@@ -50,6 +50,6 @@ Analytics platform for revenue KPIs, demand forecasting, pricing recommendations
 
 ## Connect
 
-- **Portfolio:** [paramasiva-vemavarapu-8r9ll4k.gamma.site](https://paramasiva-vemavarapu-8r9ll4k.gamma.site/)
+- **Portfolio:** [paramasivav.netlify.app](https://paramasivav.netlify.app/)
 - **LinkedIn:** [linkedin.com/in/paramasiva](https://www.linkedin.com/in/paramasiva/)
 - **Contact:** [vemavarapuparamasiva9@gmail.com](mailto:vemavarapuparamasiva9@gmail.com)
