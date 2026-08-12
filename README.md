@@ -6,6 +6,12 @@ I build Python-based machine learning and Generative AI applications—from retr
 
 I recently completed an **M.S. in Computer Science at Montclair State University**. My work combines **machine learning, Generative AI, NLP, cloud technologies, and software engineering**.
 
+## Professional Experience
+
+- Build and support production LLM and RAG workflows used across banking and payment operations.
+- Handle **500+ queries per month** through retrieval, grounded response generation, and operational AI workflows.
+- Develop Python services, APIs, evaluation pipelines, monitoring, and human-review controls for production AI systems.
+
 ## What I build
 
 - Production RAG and semantic-retrieval pipelines
