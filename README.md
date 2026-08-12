@@ -32,7 +32,7 @@ AI support application with intent routing, RAG knowledge search, conversation m
 Machine-learning system for equipment anomaly detection, explainable risk scoring, and maintenance decision support.
 
 **Stack:** Python, scikit-learn, FastAPI, Next.js, Docker  
-**Live API:** [Service](https://predictive-maintenance-and-anomaly-chld.onrender.com) · [API docs](https://predictive-maintenance-and-anomaly-chld.onrender.com/docs)
+**Live Demo:** [Dashboard](https://predictive-maintenance-and-anomaly-detection-paramasiva.vercel.app) · [API](https://predictive-maintenance-and-anomaly-chld.onrender.com) · [API docs](https://predictive-maintenance-and-anomaly-chld.onrender.com/docs)
 
 ### [Hospitality Revenue Intelligence Platform](https://github.com/ParamasivaVemavarapu/Hospitality-Revenue-Intelligence-Platform)
 
