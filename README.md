@@ -48,14 +48,14 @@ An analytics platform for revenue KPIs, demand forecasting, pricing recommendati
 
 **Stack:** Python, forecasting, FastAPI, Next.js, SQL, Docker
 
-## Technical Foundation
+## Core Technologies
 
-- **Languages:** Python, SQL, TypeScript
-- **AI/ML:** scikit-learn, PyTorch, TensorFlow, Hugging Face Transformers, NLP, anomaly detection
-- **Generative AI:** Amazon Bedrock, LangChain, LangGraph, RAG, embeddings, vector search, LLM evaluation
-- **Backend and data:** FastAPI, REST APIs, Qdrant, Neo4j, Snowflake, PostgreSQL, MySQL
-- **Cloud and MLOps:** AWS, Docker, GitHub Actions, CI/CD, MLflow, Airflow
-- **Engineering:** pytest, structured logging, configuration management, API design
+- **Applied AI:** RAG, LLM evaluation, embeddings, semantic retrieval, NLP
+- **Machine Learning:** scikit-learn, PyTorch, anomaly detection
+- **Backend:** Python, FastAPI, REST APIs, SQL
+- **Data and retrieval:** Qdrant, PostgreSQL
+- **Delivery:** Docker, GitHub Actions, CI/CD, AWS
+- **Frontend:** Next.js, TypeScript
 
 ## Connect
 
