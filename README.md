@@ -1,56 +1,58 @@
 # Hi, I'm Paramasiva 👋
 
-**AI/ML Engineer focused on building production-ready machine learning, Generative AI, LLM, NLP, and Python applications.**
+## AI/ML Engineer building production-ready AI systems
 
-I currently work with production AI systems and recently completed my **M.S. in Computer Science at Montclair State University**.
+I build Python-based machine learning and Generative AI applications—from retrieval and evaluation to APIs, deployment, and monitoring. My current work includes production LLM and RAG systems supporting 500+ monthly queries across banking and payment operations.
 
-### Areas I work across
+I recently completed an **M.S. in Computer Science at Montclair State University**. My work combines **machine learning, Generative AI, NLP, cloud technologies, and software engineering**.
 
-- Generative AI and LLMs
-- Machine Learning and Deep Learning
-- NLP, RAG, and agentic workflows
-- Python and API development
-- AWS and cloud AI
-- MLOps and model deployment
+## What I build
+
+- Production RAG and semantic-retrieval pipelines
+- Agentic workflows with human approval and evaluation
+- Machine-learning and anomaly-detection systems
+- FastAPI services and full-stack AI applications
+- Dockerized, tested applications with CI/CD
+- AWS and cloud-deployed AI solutions
 
 ## Featured Projects
 
-### [DocIntel AI](https://github.com/ParamasivaVemavarapu/DocIntel_AI)
+### 1. [DocIntel AI](https://github.com/ParamasivaVemavarapu/DocIntel_AI)
 
-Full-stack document intelligence platform for ingestion, grounded question answering, and source-cited retrieval.
+A full-stack document-intelligence platform for ingestion, grounded question answering, semantic retrieval, source citations, and multi-step workflows.
 
-**Stack:** Python, FastAPI, Next.js, LangGraph, Qdrant, Docker
+**Stack:** Python, FastAPI, Next.js, LangGraph, Qdrant, Docker, GitHub Actions
 
-### [AI Customer Support Assistant](https://github.com/ParamasivaVemavarapu/AI-Customer-Support-Assistant---Intent-Routing-and-RAG)
+### 2. [AI Customer Support Assistant](https://github.com/ParamasivaVemavarapu/AI-Customer-Support-Assistant---Intent-Routing-and-RAG)
 
-AI support application with intent routing, RAG knowledge search, conversation memory, source citations, and human escalation.
+An AI support application with intent routing, RAG knowledge search, conversation memory, source citations, and human escalation.
 
 **Stack:** Python, FastAPI, Next.js, RAG, SQL, Docker
 
-### [Predictive Maintenance and Anomaly Detection](https://github.com/ParamasivaVemavarapu/Predictive-Maintenance-and-Anomaly-Detection)
+### 3. [Predictive Maintenance and Anomaly Detection](https://github.com/ParamasivaVemavarapu/Predictive-Maintenance-and-Anomaly-Detection)
 
-Machine-learning system for equipment anomaly detection, explainable risk scoring, and maintenance decision support.
+A deployed machine-learning system for multivariate anomaly detection, explainable risk scoring, remaining-useful-life estimates, and maintenance decision support.
 
-**Stack:** Python, scikit-learn, FastAPI, Next.js, Docker  
-**Live Demo:** [Dashboard](https://predictive-maintenance-and-anomaly-detection-paramasiva.vercel.app) · [API](https://predictive-maintenance-and-anomaly-chld.onrender.com) · [API docs](https://predictive-maintenance-and-anomaly-chld.onrender.com/docs)
+**Stack:** Python, pandas, scikit-learn, FastAPI, Next.js, Docker, GitHub Actions  
+**Live:** [Dashboard](https://predictive-maintenance-and-anomaly-detection-paramasiva.vercel.app) · [API](https://predictive-maintenance-and-anomaly-chld.onrender.com) · [API docs](https://predictive-maintenance-and-anomaly-chld.onrender.com/docs)
 
-### [Hospitality Revenue Intelligence Platform](https://github.com/ParamasivaVemavarapu/Hospitality-Revenue-Intelligence-Platform)
+### 4. [Hospitality Revenue Intelligence Platform](https://github.com/ParamasivaVemavarapu/Hospitality-Revenue-Intelligence-Platform)
 
-Analytics platform for revenue KPIs, demand forecasting, pricing recommendations, and operational decision support.
+An analytics platform for revenue KPIs, demand forecasting, pricing recommendations, and operational decision support.
 
 **Stack:** Python, forecasting, FastAPI, Next.js, SQL, Docker
 
-## Technical Stack
+## Technical Foundation
 
 - **Languages:** Python, SQL, TypeScript
-- **AI and ML:** LangChain, LangGraph, scikit-learn, RAG, embeddings, vector search, NLP
-- **Backend:** FastAPI, REST APIs, PostgreSQL, MySQL, Qdrant, Neo4j
-- **Frontend:** Next.js, React
-- **Cloud and MLOps:** AWS, Amazon Bedrock, Docker, GitHub Actions, CI/CD
-- **Data Engineering:** Spark, PySpark, Kafka, Airflow, dbt
+- **AI/ML:** scikit-learn, PyTorch, TensorFlow, Hugging Face Transformers, NLP, anomaly detection
+- **Generative AI:** Amazon Bedrock, LangChain, LangGraph, RAG, embeddings, vector search, LLM evaluation
+- **Backend and data:** FastAPI, REST APIs, Qdrant, Neo4j, Snowflake, PostgreSQL, MySQL
+- **Cloud and MLOps:** AWS, Docker, GitHub Actions, CI/CD, MLflow, Airflow
+- **Engineering:** pytest, structured logging, configuration management, API design
 
 ## Connect
 
-- **Portfolio:** [paramasivav.netlify.app](https://paramasivav.netlify.app/)
+- **Portfolio:** [paramasivavemavarapu.netlify.app](https://paramasivavemavarapu.netlify.app/)
 - **LinkedIn:** [linkedin.com/in/paramasiva](https://www.linkedin.com/in/paramasiva/)
-- **Contact:** [vemavarapuparamasiva9@gmail.com](mailto:vemavarapuparamasiva9@gmail.com)
+- **Email:** [vemavarapuparamasiva9@gmail.com](mailto:vemavarapuparamasiva9@gmail.com)
