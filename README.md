@@ -2,7 +2,7 @@
 
 ## I turn operational problems into reliable AI software
 
-I build systems that help people find trusted information, automate repetitive decisions, detect risk earlier, and hand uncertain cases to humans. My work spans retrieval, evaluation, APIs, deployment, and monitoring—not just model experimentation.
+I build systems that help people find trusted information, automate repetitive decisions, detect risk earlier, and hand uncertain cases to humans. My work spans retrieval, evaluation, APIs, deployment, and monitoring not just model experimentation.
 
 I currently support production LLM and RAG workflows handling **500+ monthly queries** across banking and payment operations. I recently completed an **M.S. in Computer Science at Montclair State University**.
 
